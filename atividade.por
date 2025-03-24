@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     real numero1, numero2, soma
-    escreva("Digite um número: ")
+    escreva("Digite o número: ")
     leia(numero1)
     escreva("Digite outro número: ")
     leia(numero2)
